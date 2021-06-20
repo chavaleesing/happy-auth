@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "FastAPI",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceRoot}/auth-boom/main.py",
+            "console": "integratedTerminal",
+            "args": [
+                "run"
+            ],
+            "jinja": true
+        }
+    ]
+}
