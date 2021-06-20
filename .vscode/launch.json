@@ -5,7 +5,7 @@
             "name": "FastAPI",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceRoot}/auth-boom/main.py",
+            "program": "${workspaceRoot}/happy-auth/main.py",
             "console": "integratedTerminal",
             "args": [
                 "run"
